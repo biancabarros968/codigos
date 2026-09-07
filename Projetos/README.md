@@ -45,7 +45,7 @@ custoMensal = consumoMensal * valorKwh
 
 ```text
 Aparelho: Forno Elétrico
-Consumo estimado: 45.00 kWh/mês
+Consumo estimado: 45,00 kWh/mês
 Custo estimado: R$ 36,00
 ```
 
