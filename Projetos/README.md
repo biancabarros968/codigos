@@ -20,41 +20,31 @@ O programa foi desenvolvido utilizando a linguagem de programação Python e tam
 
 O consumo mensal de energia é calculado utilizando a seguinte fórmula:
 
-```text
 consumoMensal = (potencia * horasDia * 30) / 1000
-```
 
 Onde:
 
-* `potencia` = potência do aparelho em Watts.
-* `horasDia` = tempo médio de uso diário.
-* `30` = quantidade estimada de dias no mês.
-* `1000` = conversão de Watts para quilowatts.
+* potencia = potência do aparelho em Watts.
+* horasDia = tempo médio de uso diário.
+* 30 = quantidade estimada de dias no mês.
+* 1000 = conversão de Watts para quilowatts.
 
 ## 💰 Cálculo do custo estimado
 
 Foi utilizado o valor fixo de **R$ 0,80 por kWh** para calcular uma estimativa de custo mensal.
 
-```text
 custoMensal = consumoMensal * valorKwh
-```
 
 ## 🚀 Como executar o projeto
 
 1. Clone este repositório ou faça o download dos arquivos.
 2. Certifique-se de ter o Python instalado em seu computador.
-3. Execute o arquivo `app.py`:
-
-```bash
-python app.py
-```
+3. Execute o arquivo app.py.
 
 ## 📊 Exemplo de resultado
 
-```text
 Aparelho: Forno Elétrico
 Consumo estimado: 45.00 kWh/mês
 Custo estimado: R$ 36,00
-```
 
 
