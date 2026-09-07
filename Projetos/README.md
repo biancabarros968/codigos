@@ -20,7 +20,7 @@ O programa foi desenvolvido utilizando a linguagem de programação Python e tam
 
 O consumo mensal de energia é calculado utilizando a seguinte fórmula:
 
-##consumoMensal = (potencia * horasDia * 30) / 1000
+consumoMensal = (potencia * horasDia * 30) / 1000
 
 Onde:
 
