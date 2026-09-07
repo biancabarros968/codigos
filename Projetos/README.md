@@ -20,7 +20,7 @@ O programa foi desenvolvido utilizando a linguagem de programação Python e tam
 
 O consumo mensal de energia é calculado utilizando a seguinte fórmula:
 
-consumoMensal = (potencia * horasDia * 30) / 1000
+##consumoMensal = (potencia * horasDia * 30) / 1000
 
 Onde:
 
@@ -43,8 +43,10 @@ custoMensal = consumoMensal * valorKwh
 
 ## 📊 Exemplo de resultado
 
+```text
 Aparelho: Forno Elétrico
 Consumo estimado: 45.00 kWh/mês
 Custo estimado: R$ 36,00
+```
 
 
